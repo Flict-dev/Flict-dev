@@ -1,6 +1,4 @@
-# Hi there, I'm python developer  🐍👋
-
-![header](https://github.com/Flict-dev/Flict-dev/blob/master/assets/nyancat-rainbow-cat.gif)
+# Hi there, I'm python developer  ![header](https://github.com/Flict-dev/Flict-dev/blob/master/assets/nyancat-rainbow-cat.gif)
 
 ## Stats
 
@@ -8,5 +6,5 @@
 
 
 
-# About me 
-# Languages and Tools
+## About me 
+## Languages and Tools
