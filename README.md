@@ -1,5 +1,5 @@
 # Hi there, I'm python developer  🐍👋
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Flict-dev&show_icons=true&theme=tokyonight) ![Alt-is](https://mir-s3-cdn-cf.behance.net/project_modules/max_632/6c945241281639.57a00d702e20a.gif)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Flict-dev&show_icons=true&theme=tokyonight) ![Alt-is](https://thumbs.gfycat.com/RepentantIcyKinglet-size_restricted.gif)
 
 ## About me
   - Web developer 🚀
