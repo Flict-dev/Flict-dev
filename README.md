@@ -4,7 +4,6 @@
 ## About me
   - Web developer 🚀
   - Fond of web vulnerabilities 🕵🏻‍♂️
-  - I want to destroy Evil Corp 🤖
   - CTF participant 🚩
 
 ![Alt-is](https://thumbs.gfycat.com/RepentantIcyKinglet-size_restricted.gif)
