@@ -1,5 +1,7 @@
 # Hi there, I'm python developer  🐍👋
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Flict-dev&show_icons=true&theme=tokyonight) ![Alt-is](https://i.gifer.com/embedded/download/9WR9.gif)
+![Alt-is](https://pbs.twimg.com/profile_banners/172349879/1586470767/1500x500)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Flict-dev&show_icons=true&theme=tokyonight) 
 
 ## About me
   - Web developer 🚀
