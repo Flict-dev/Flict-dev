@@ -1,5 +1,5 @@
 # Hi there, I'm python developer  🐍👋
-![Alt-is](https://pbs.twimg.com/profile_banners/172349879/1586470767/1500x500)
+![Alt-is](https://thumbs.gfycat.com/RepentantIcyKinglet-size_restricted.gif)
 
 ![GitHub stats](https://thumbs.gfycat.com/RepentantIcyKinglet-size_restricted.gif) 
 
