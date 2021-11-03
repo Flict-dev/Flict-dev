@@ -1,11 +1,11 @@
 # Hi there, I'm python developer  🐍👋
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Flict-dev&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Flict-dev&show_icons=true&theme=tokyonight) ![Alt-is](https://mir-s3-cdn-cf.behance.net/project_modules/max_632/6c945241281639.57a00d702e20a.gif)
 
 ## About me
   - Web developer 🚀
   - Fond of web vulnerabilities 🚩
   - I want to destroy Evil Corp 🤖
-![Alt-is](https://mir-s3-cdn-cf.behance.net/project_modules/max_632/6c945241281639.57a00d702e20a.gif)
+
 ## Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-70a5fd)
 ![SQL](https://img.shields.io/badge/-SQL-70a5fd)
