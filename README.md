@@ -1,4 +1,4 @@
-# Hi there, I'm python developer  🐍👋
+# Hi there, I'm python developer 👋
 ![Alt-is](https://thumbs.gfycat.com/RepentantIcyKinglet-size_restricted.gif)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Flict-dev&show_icons=true&theme=tokyonight) 
