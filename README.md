@@ -1,6 +1,6 @@
 # Hi there, I'm python developer 👋
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Flict-dev&show_icons=true&theme=tokyonight) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Flict-dev&hide=jupyter%20notebook,css&langs_count=15&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Flict-dev&hide=jupyter%20notebook,css&langs_count=15&theme=tokyonight&layout=compact)
 ## About me
   - Web developer 🚀
   - Fond of web vulnerabilities 🕵🏻‍♂️
