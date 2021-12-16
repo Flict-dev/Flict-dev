@@ -15,4 +15,4 @@
 ![HTML](https://img.shields.io/badge/-HTML-70a5fd)
 ![CSS](https://img.shields.io/badge/-CSS-70a5fd)
 ![Django](https://img.shields.io/badge/-Django-70a5fd)
-![MySQL](https://img.shields.io/badge/-MySQL-70a5fd)
+![FastAPI](https://img.shields.io/badge/-FastAPI-70a5fd)
