@@ -20,3 +20,4 @@
 ![CSS](https://img.shields.io/badge/-CSS-70a5fd)
 ![Django](https://img.shields.io/badge/-Django-70a5fd)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-70a5fd)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-70a5fd)
