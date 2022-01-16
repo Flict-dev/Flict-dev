@@ -1,8 +1,8 @@
 # Hi there, I'm python developer 👋
 
 <p> 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Flict-dev&show_icons=true&hide_border=true&include_all_commits=true&theme=nightowl" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flict-dev&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl"/> 
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Flict-dev&show_icons=true&hide_border=true&include_all_commits=true&theme=tokyonight" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flict-dev&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/> 
 </p>
 
 ## About me
