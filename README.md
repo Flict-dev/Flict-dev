@@ -1,5 +1,10 @@
 # Hi there, I'm python developer 👋
 
+<p> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Flict-dev&show_icons=true&hide_border=true&include_all_commits=true&theme=nord" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flict-dev&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=nord"/> 
+</p>
+
 ## About me
   - Web developer 🚀
   - Fond of web vulnerabilities 🕵🏻‍♂️
