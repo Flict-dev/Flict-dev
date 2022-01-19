@@ -18,6 +18,6 @@
 ![JS](https://img.shields.io/badge/-JS-70a5fd)
 ![HTML](https://img.shields.io/badge/-HTML-70a5fd)
 ![CSS](https://img.shields.io/badge/-CSS-70a5fd)
-![Django](https://img.shields.io/badge/-Django-70a5fd)
+![Django](https://img.shields.io/badge/-Django-343467)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-70a5fd)
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-70a5fd)
