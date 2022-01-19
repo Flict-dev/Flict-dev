@@ -13,11 +13,11 @@
 ![Alt-is](https://thumbs.gfycat.com/RepentantIcyKinglet-size_restricted.gif)
 
 ## Languages and Tools
-![Python](https://img.shields.io/badge/-Python-70a5fd)
-![SQL](https://img.shields.io/badge/-SQL-70a5fd)
-![JS](https://img.shields.io/badge/-JS-70a5fd)
-![HTML](https://img.shields.io/badge/-HTML-70a5fd)
-![CSS](https://img.shields.io/badge/-CSS-70a5fd)
+![Python](https://img.shields.io/badge/-Python-343467)
+![SQL](https://img.shields.io/badge/-SQL-343467)
+![JS](https://img.shields.io/badge/-JS-343467)
+![HTML](https://img.shields.io/badge/-HTML-343467)
+![CSS](https://img.shields.io/badge/-CSS-343467)
 ![Django](https://img.shields.io/badge/-Django-343467)
-![FastAPI](https://img.shields.io/badge/-FastAPI-70a5fd)
-![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-70a5fd)
+![FastAPI](https://img.shields.io/badge/-FastAPI-343467)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-343467)
