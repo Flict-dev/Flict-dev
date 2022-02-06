@@ -15,9 +15,11 @@
 ## Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-343467)
 ![SQL](https://img.shields.io/badge/-SQL-343467)
-![JS](https://img.shields.io/badge/-JS-343467)
+![JavaScript](https://img.shields.io/badge/-JavaScript-343467)
+![TypeScript](https://img.shields.io/badge/-TypeScript-343467)
 ![HTML](https://img.shields.io/badge/-HTML-343467)
 ![CSS](https://img.shields.io/badge/-CSS-343467)
+![React](https://img.shields.io/badge/-React-343467)
 ![Django](https://img.shields.io/badge/-Django-343467)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-343467)
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-343467)
