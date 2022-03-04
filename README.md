@@ -1,4 +1,4 @@
-# Hi there, I'm python developer 👋
+# Hi there 👋
 
 <p> 
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Flict-dev&show_icons=true&hide_border=true&include_all_commits=true&theme=tokyonight" />
