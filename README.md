@@ -1,18 +1,19 @@
-# Hi there 👋
+# Hi there, I'm Max - aka Flict-dev 👋
 
+### My Stats:
 <p> 
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Flict-dev&show_icons=true&hide_border=true&include_all_commits=true&theme=tokyonight" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flict-dev&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/> 
 </p>
 
-## About me
+### About me:
   - Web developer 🚀
   - Fond of web vulnerabilities 🕵🏻‍♂️
   - CTF participant 🚩
 
 ![Alt-is](https://thumbs.gfycat.com/RepentantIcyKinglet-size_restricted.gif)
 
-## Languages and Tools
+### Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-343467)
 ![SQL](https://img.shields.io/badge/-SQL-343467)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-343467)
