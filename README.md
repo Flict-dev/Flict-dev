@@ -1,4 +1,4 @@
-# Hi there, I'm Max - aka Flict-dev 👋
+# Hi there, I'm Max 👋
 
 ### My Stats:
 <p> 
