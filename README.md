@@ -2,7 +2,7 @@
 
 ##  I'm Max, a Python Backend Developer.
 
-### About me:
+### About me
   - I am fond of mountain biking 🚵‍♂️
   - I love Chinese tea 🍵
   - Currently learning Rust 🦀
@@ -13,7 +13,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flict-dev&layout=compact&langs_count=8show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/> 
 </p>
 
-## My Stack:
+## 🚀 My Stack:
 
 - ### Main Languages:
   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
