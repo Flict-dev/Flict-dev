@@ -1,6 +1,6 @@
-## Hi there 👋
+# Hi there 👋
 
-##  I'm Max, a Python Backend Developer.
+# I'm Max, a Python Backend Developer.
 
 ### About me
   - I am fond of mountain biking 🚵‍♂️
