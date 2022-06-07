@@ -48,4 +48,7 @@
   ![Git](https://img.shields.io/badge/-Git-0D0D0D?style=flat-square&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-0D0D0D?style=flat-square&logo=github)
 
+## 🚀 Contact witm me:
+[![Telegram](https://img.shields.io/badge/-Telegram-1a1b27?style=flat-square&logo=Telegram)](https://t.me/Fl1ct)
+[![Gmail](https://img.shields.io/badge/-Gmail-1a1b27?style=flat-square&logo=Gmail)](mailto:zhdanom.maksi@gmail.com)
 
