@@ -38,13 +38,9 @@
 
 - ### Tools:
   ![Docker](https://img.shields.io/badge/-Docker-0D0D0D?style=flat-square&logo=docker&logoColor=white)
-  ![VScode](https://img.shields.io/badge/-VScode-0D0D0D?style=flat-square&logo=VisualStudioCode)
-  ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-0D0D0D?style=flat-square&logo=jetbrains)
-  ![Postman](https://img.shields.io/badge/Postman-0D0D0D?style=flat-square&logo=postman)
   ![nginx](https://img.shields.io/badge/-Nginx-0D0D0D?style=flat-square&logo=nginx)
   ![HTML](https://img.shields.io/badge/-HTML-0D0D0D?style=flat-square&logo=html5)
   ![CSS](https://img.shields.io/badge/-CSS-0D0D0D?style=flat-square&logo=css3)
-  ![Linux](https://img.shields.io/badge/Linux-0D0D0D?style=flat-square&logo=linux)
   ![Git](https://img.shields.io/badge/-Git-0D0D0D?style=flat-square&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-0D0D0D?style=flat-square&logo=github)
 
